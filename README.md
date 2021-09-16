@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# React Meetups Firebase app
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7c0a463-135c-4c4c-92a5-8d84627fb5f5/deploy-status)](https://app.netlify.com/sites/react-meetups-firebase/deploys)
+
+## Site URL
+https://react-meetups-firebase.netlify.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
